@@ -1,8 +1,8 @@
 
- Hi, I'm Dua Yaqoob 👋
+ **Hi, I'm Dua Yaqoob 👋**
 
-**BSCS Student | Aspiring AI/ML Engineer
-**
+**BSCS Student | Aspiring AI/ML Engineer**
+
 I'm a Computer Science student interested in Artificial Intelligence,
 Machine Learning, and Python development.
 
